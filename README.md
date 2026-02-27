@@ -29,3 +29,35 @@ https://abhilash-todolist.netlify.app/
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 📈 Version History
+
+### v1.0
+- Basic Todo UI
+- Add / Delete tasks
+- Checkbox toggle
+- Local Storage integration
+- Deployed on Netlify
+
+---
+
+## 🎯 Future Improvements
+
+- 🔍 Search tasks
+- 🎨 Dark mode
+- 🏷 Task priority (High/Medium/Low)
+- 📊 Task filters (All / Completed / Pending)
+
+---
+
+## 👨‍💻 Author
+
+**Abhilash**  
+B.Tech CSE Student | Aspiring Full Stack Developer  
+
+---
+
+⭐ If you like this project, feel free to star the repository!
